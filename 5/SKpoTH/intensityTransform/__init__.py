@@ -1,0 +1,1 @@
+from .powerLawTrans import powerLawTrans
